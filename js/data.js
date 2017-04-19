@@ -37,6 +37,20 @@ var JSONBingo = {"squares": [
         {"square": "Dev Ops"}, 
         {"square": "Daten"},    	
         {"square": "Sicherheit"},    	
-        {"square": "Germancloud"}    	
+        {"square": "Germancloud"},    	
+        {"square": "Agile"},    	
+        {"square": "Future"},    	
+        {"square": "OpenStack"},    	
+        {"square": "Container"},    	
+        {"square": "Born in the Cloud"},    	
+        {"square": "Cloud Native Apps"},    	
+        {"square": "NSX"},    	
+        {"square": "SDx"},    	
+        {"square": "SDN"},    	
+        {"square": "SDS"},    	
+        {"square": "SDB"},    	
+        {"square": "OffPremise"},    	
+        {"square": "Co-Lokation"},    	
+        {"square": "Managed Cloud"}    	
     ]
 };
